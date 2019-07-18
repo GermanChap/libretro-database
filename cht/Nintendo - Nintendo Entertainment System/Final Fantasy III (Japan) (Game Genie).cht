@@ -1,4 +1,4 @@
-cheats = 11 
+cheats = 21 
 
 cheat0_desc = "Infinite Potions Outside of Battle!"
 cheat0_code = "SLUXTUVS"
@@ -44,3 +44,42 @@ cheat10_desc = "Cure 1 Is Much Stronger"
 cheat10_code = "KLVPXXZZ"
 cheat10_enable = false 
 
+cheat11_desc = "Able to Save in towns and dungeons"
+cheat11_code = "AOOXISZK"
+cheat11_enable = false 
+
+cheat12_desc = "Walk through walls and sprites in towns and dungeons"
+cheat12_code = "AOVVYUAU"
+cheat12_enable = false 
+
+cheat13_desc = "Pass through mountains, etc. on the world map"
+cheat13_code = "ASUGITEI"
+cheat13_enable = false 
+
+cheat14_desc = "Pass through mountains, etc. on the world map"
+cheat14_code = "ASUGITEI"
+cheat14_enable = false 
+
+cheat15_desc = "Remove the 'Defenseless' effect when fleeing battles"
+cheat15_code = "OXOAILVV"
+cheat15_enable = false 
+
+cheat16_desc = "Any class can equip the Masamune"
+cheat16_code = "AEUOYSYA"
+cheat16_enable = false 
+
+cheat17_desc = "Masamune boosts everything, not just Agility & Vitality"
+cheat17_code = "NNUOTIAV"
+cheat17_enable = false 
+
+cheat18_desc = "Ur weapon shop sells Masamune"
+cheat18_code = "YUKPSKTP"
+cheat18_enable = false 
+
+cheat19_desc = "Ur armor shop sells Elixir"
+cheat19_code = "EXNOXGZV"
+cheat19_enable = false 
+
+cheat20_desc = "Ur armor shop sells Fenix Down"
+cheat20_code = "OXNOUKUE"
+cheat20_enable = false 
